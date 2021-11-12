@@ -1,5 +1,7 @@
 # Face-reading
 
+This is the Aura face reading task with Forkaia
+
 How to run this program
 
 1. Have cv2 with contribution downloaded
